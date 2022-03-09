@@ -1,9 +1,14 @@
-https://fastclick.com
-https://fastclick.net
-https://media.fastclick.com
-https://cdn.fastclick.net
-https://doubleclick.net/
-https://ad.doubleclick.net/
-https://static.doubleclick.net
-https://m.doubleclick.net
-https://mediavisor.doubleclick.net
+! Title: Online Malicious URL Blocklist (AdGuard Home)
+! Updated: Mon, 28 Feb 2022 00:14:36 +0000
+
+! 2021/01/08: There has been a major change to the mirrors, check the repo for the new mirrors.
+! Old mirrors will be deprecated in 3 months. The main download link "curben.gitlab.io/malware-filter/" _is not affected_.
+||fastclick.com^
+||fastclick.net^
+||media.fastclick.com^
+||cdn.fastclick.net^
+||doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
