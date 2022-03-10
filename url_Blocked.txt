@@ -1,5 +1,6 @@
 ! Title: Online Malicious URL Blocklist (AdGuard Home)
-! Updated: Mon, 28 Feb 2022 00:14:36 +0000
+! Updated: Mon, 10/03/2022 00:14:36 +0000
+!updates
 
 ! 2021/01/08: There has been a major change to the mirrors, check the repo for the new mirrors.
 ! Old mirrors will be deprecated in 3 months. The main download link "curben.gitlab.io/malware-filter/" _is not affected_.
