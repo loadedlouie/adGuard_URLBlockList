@@ -24,3 +24,4 @@
 ||google-analytics.com^
 ||ssl.google-analytics.com^
 ||pornhub.com^
+||yourluckalways.com/^
